@@ -1,1 +1,3 @@
-# Thanks for the interest!
+# Spotify Synchronizer
+
+Thanks for the interest!
